@@ -1,0 +1,80 @@
+﻿<f:WindowBase x:Class="prbd_2021_c08.view.LoginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:f="clr-namespace:PRBD_Framework;assembly=PRBD_Framework"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prbd_2021_c08.view" 
+        xmlns:vm="clr-namespace:prbd_2021_c08.viewmodel"
+        mc:Ignorable="d"
+         Height="500" Width="800" WindowStartupLocation="CenterScreen">
+  
+    <Grid >
+        <Grid.Background>
+            <ImageBrush ImageSource="/Ressources/space.png"/>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1" Grid.Column="1" Background="LightBlue" Opacity="0.7">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.4*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.5*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Log In" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" FontWeight="Bold" FontSize="30" FontFamily="AR DESTINE">
+                <Label.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF010B3D"/>
+                        <GradientStop Color="#FF293FE0" Offset="1"/>
+                    </LinearGradientBrush>
+                </Label.Foreground>
+            </Label>
+            <Label Content="Mail :"  Grid.Row="2" Grid.Column="1"  FontSize="18" FontWeight="Bold"  MinHeight="25" Foreground="#FF042779"/>
+            <f:ValidatedField  Grid.Row="3" Grid.Column="1">
+                <TextBox Height="27" Text="{Binding Mail, UpdateSourceTrigger=PropertyChanged}"/>
+            </f:ValidatedField>
+            <Label Content="Password :" Grid.Row="6" Grid.Column="1"  FontSize="18" FontWeight="Bold"  MinHeight="25" Foreground="#FF042779"/>
+            <f:ValidatedField Grid.Row="7" Grid.Column="1">
+                <PasswordBox f:PasswordHelper.Attach="True" x:Name="PasswordBox"
+                Height="27" f:PasswordHelper.Password="{Binding PassWord, UpdateSourceTrigger=PropertyChanged}"  />
+            </f:ValidatedField>
+            <Grid Grid.Row="9" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Content="Log in" Grid.Column="1" Command="{Binding LoginCommand}" Height="33" Width="100" FontSize="14" FontWeight="Bold"  FontFamily="AR DESTINE"/>
+                <Button Content="Sign up" Grid.Column="3" Command="{Binding SignupCommand}" Height="33" Width="100" FontSize="14" FontWeight="Bold"  Click="Signup_Click" FontFamily="AR DESTINE" />
+            </Grid>
+            <Button Content="Log as a student" Grid.Column="1" Grid.Row="10" Command="{Binding LoginStudentCommand}" Height="30" Width="277" FontSize="14" FontWeight="Bold" FontFamily="AR DESTINE"/>
+        </Grid>
+    </Grid>
+</f:WindowBase>

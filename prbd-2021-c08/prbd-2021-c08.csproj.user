@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="view\CategorieView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\CheckQuizzView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\CourseDetailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\CoursesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\EditQuizzView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\NewCourseView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\NewQuestionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\NewQuizzView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\NoteBookView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\PassQuizzView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\ProfileView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\QuestionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\QuizzesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\RegisterView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\RegistrationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="view\SubscribeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\CategorieView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\CheckQuizzView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\CourseDetailView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\CoursesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\EditQuizzView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\NewCourseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\NewQuestionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\NewQuizzView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\NoteBookView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\PassQuizzView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\ProfileView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\QuestionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\QuizzesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\RegisterView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\RegistrationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="view\SubscribeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

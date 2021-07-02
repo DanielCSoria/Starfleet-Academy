@@ -1,0 +1,82 @@
+﻿<f:UserControlBase x:Class="prbd_2021_c08.view.ProfileView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:f="clr-namespace:PRBD_Framework;assembly=PRBD_Framework" 
+             xmlns:local="clr-namespace:prbd_2021_c08.view" xmlns:model="clr-namespace:prbd_2021_c08.model" 
+                   mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="0.2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" Grid.Column="1"  Background="LightBlue" Opacity="0.7">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.45*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.45*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="0.7*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="5*"/>
+                <ColumnDefinition Width="3*"/>
+
+            </Grid.ColumnDefinitions>
+            <Image  Source="{Binding PicturePath}"
+                                            RenderOptions.BitmapScalingMode="Fant"  Margin="10,0" VerticalAlignment="Top"
+                                            Height="77" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" />
+
+            <Label Content="Profile: " Grid.Row="3" Grid.Column="2"  FontSize="18" FontWeight="Bold" Foreground="#FF042779" HorizontalAlignment="Center"/>
+            <f:ValidatedField  Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3" Width="600" HorizontalAlignment="Center" >
+                <TextBox Text="{Binding Profile, UpdateSourceTrigger=PropertyChanged}" Width="550" Grid.Column="1" Grid.Row="1" TextWrapping="Wrap" MinLines="3" AcceptsReturn="True" MaxLines="10" VerticalScrollBarVisibility="Auto" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+            </f:ValidatedField>
+            <Label  Grid.Row="7" Grid.Column="1" Margin="3"  FontSize="18" FontWeight="Bold" Foreground="#FF042779" Height="30"/>
+            <Label Content="FirstName :" Grid.Row="8" Grid.Column="1" Margin="3"  FontSize="18" FontWeight="Bold" Foreground="#FF042779" Height="30"/>
+            <Label Content="LastName :" Grid.Row="9" Grid.Column="1" Margin="3"  FontSize="18" FontWeight="Bold" Foreground="#FF042779" Height="30"/>
+            <Label Content="Role :" Grid.Row="10" Grid.Column="1" Margin="3"  FontSize="18" FontWeight="Bold" Foreground="#FF042779" Height="30"/>
+            
+            <Label Content="{Binding Mail, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" HorizontalAlignment="Right"  Grid.Row="7"    FontSize="18" FontWeight="Bold" Foreground="#FF042779" RenderTransformOrigin="0.562,0.694" />
+            <Label Content="{Binding FirstName, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" HorizontalAlignment="Right" Grid.Row="8" FontSize="18" FontWeight="Bold" Foreground="#FF042779" />
+            <Label Content="{Binding LastName, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" HorizontalAlignment="Right"  Grid.Row="9" FontSize="18" FontWeight="Bold" Foreground="#FF042779" />
+            <Label Content="{Binding Role, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" HorizontalAlignment="Right"  Grid.Row="10" FontSize="18" FontWeight="Bold" Foreground="#FF042779" />
+
+            <Label Content="Password :" Grid.Row="7" Grid.Column="3" Margin="3"  FontSize="18" FontWeight="Bold" Foreground="#FF042779" Height="30"/>
+            <f:ValidatedField Grid.Row="8" Grid.Column="3" Width="200" HorizontalAlignment="Left">
+                <PasswordBox f:PasswordHelper.Attach="True" x:Name="PasswordBox"
+                Height="25" f:PasswordHelper.Password="{Binding PassWord, UpdateSourceTrigger=PropertyChanged}"  />
+            </f:ValidatedField>
+            <Label Content="ConfirmPassword :" Grid.Row="9" Grid.Column="3" Margin="3"  FontSize="18" FontWeight="Bold" Foreground="#FF042779" Height="30"/>
+            <f:ValidatedField Grid.Row="10" Grid.Column="3" Width="200" HorizontalAlignment="Left">
+                <PasswordBox f:PasswordHelper.Attach="True" x:Name="PasswordBoxConfirm"
+                Height="25" f:PasswordHelper.Password="{Binding PasswordConfirm, UpdateSourceTrigger=PropertyChanged}"  />
+            </f:ValidatedField>
+            <Button Content="Save" Grid.Row="15"  Grid.Column="1" Command="{Binding Save}" Height="33" Width="150" FontSize="14" FontWeight="Bold" HorizontalAlignment="Right" FontFamily="AR DESTINE"/>
+            <Button Content="Cancel" Grid.Row="15"  Grid.Column="3" Command="{Binding Cancel}" Height="33" Width="150" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" FontFamily="AR DESTINE"/>
+
+        </Grid>
+    </Grid>
+</f:UserControlBase>

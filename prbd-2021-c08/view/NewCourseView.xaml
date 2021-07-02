@@ -1,0 +1,67 @@
+﻿<f:UserControlBase  x:Class="prbd_2021_c08.view.NewCourseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:f="clr-namespace:PRBD_Framework;assembly=PRBD_Framework" 
+             xmlns:local="clr-namespace:prbd_2021_c08.view"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+           
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1" Grid.Row="0"  Background="LightBlue" Opacity="0.7" Margin="10,30">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="0.5*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="7*"/>
+                    <ColumnDefinition Width="30*"/>
+                    <ColumnDefinition Width="7*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Content="Name :" Grid.Row="1" Grid.Column="1"  FontSize="18" FontWeight="Bold" Foreground="#FF042779"/>
+                <f:ValidatedField  Grid.Row="3" Grid.Column="1">
+                    <TextBox Height="33" Width="500" Text="{Binding Name}"/>
+                </f:ValidatedField>
+                <Label Content="Summary :" Grid.Row="5" Grid.Column="1" FontSize="18" FontWeight="Bold" Foreground="#FF042779"/>
+                <f:ValidatedField  Grid.Row="7" Grid.Column="1">
+                    <TextBox Height="60" Width="500" Text="{Binding Summary}" TextWrapping="Wrap" MinLines="3" AcceptsReturn="True" MaxLines="10" VerticalScrollBarVisibility="Auto" VerticalAlignment="Top" HorizontalAlignment="Left" />
+                </f:ValidatedField>
+                <Grid Grid.Row="9" Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Max Student: " Grid.Row="0"  FontSize="18" FontWeight="Bold" Foreground="#FF042779"/>
+                </Grid>
+                <f:ValidatedField Grid.Row="10" Grid.Column="1" >
+                    <TextBox Text="{Binding Capacity}" Width="50" HorizontalAlignment="Left"/>
+                </f:ValidatedField>
+                <Button Content="Add Course" Command="{Binding AddCourse}"  Grid.Row="11" Margin="10" Grid.Column="1" Height="35" Width="150" HorizontalAlignment="Left" FontSize="14" FontWeight="Bold" FontFamily="AR DESTINE"/>
+                <Button Content="Cancel" Command="{Binding Cancel}"  Grid.Row="11" Margin="10" Grid.Column="1" Height="35" Width="150" HorizontalAlignment="Right"  FontSize="14" FontWeight="Bold" FontFamily="AR DESTINE"/>
+            </Grid>
+    </Grid>
+    </Grid>
+   
+</f:UserControlBase>

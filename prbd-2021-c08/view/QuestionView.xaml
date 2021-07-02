@@ -1,0 +1,166 @@
+﻿<f:UserControlBase x:Class="prbd_2021_c08.view.QuestionView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:f="clr-namespace:PRBD_Framework;assembly=PRBD_Framework" 
+             xmlns:local="clr-namespace:prbd_2021_c08.view"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis" />
+    </UserControl.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="19*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" Grid.Column="1" Background="LightBlue" Opacity="0.7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.05*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="19*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label  Content="Avalaible questions" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" FontFamily="AR DESTINE" Foreground="DarkBlue" >
+                
+            </Label>
+            <ListView Grid.Row="2"  Grid.Column="1"  Margin="10,10,10,9"  Width="350"
+                       
+                       ItemsSource="{Binding Questions, UpdateSourceTrigger=PropertyChanged}" 
+                      SelectedItem="{Binding SelectedQuestion,  UpdateSourceTrigger=PropertyChanged}"  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.2*"/>
+                                <ColumnDefinition Width="0.2*"/>
+                                <ColumnDefinition Width="5*"/>
+
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+
+                            </Grid.RowDefinitions>
+                            <Label Content="{Binding Title}"  Grid.Row="0" Grid.Column="2"/>
+                            <Label Content="{Binding Answers[0].Body}"  Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left" />
+                            <Label Content="{Binding Answers[1].Body}"  Grid.Row="2" Grid.Column="2" HorizontalAlignment="Left" />
+                            <Label Content="{Binding Answers[2].Body}"  Grid.Row="3" Grid.Column="2" HorizontalAlignment="Left" />
+                            <Label Content="{Binding Answers[3].Body}"  Grid.Row="4" Grid.Column="2" HorizontalAlignment="Left" />
+                            <RadioButton Grid.Row="1" Grid.Column="0" IsChecked="{Binding Answers[0].Status, Mode=OneTime}" Visibility="{Binding IsSingle}" IsEnabled="False"/>
+                            <RadioButton Grid.Row="2" Grid.Column="0" IsChecked="{Binding Answers[1].Status, Mode=OneTime}" Visibility="{Binding IsSingle}" IsEnabled="False"/>
+                            <RadioButton Grid.Row="3" Grid.Column="0" IsChecked="{Binding Answers[2].Status, Mode=OneTime}" Visibility="{Binding IsSingle}" IsEnabled="False"/>
+                            <RadioButton Grid.Row="4" Grid.Column="0" IsChecked="{Binding Answers[3].Status, Mode=OneTime}" Visibility="{Binding IsSingle}" IsEnabled="False"/>
+
+                            <CheckBox Grid.Row="1" Grid.Column="1" IsChecked="{Binding Answers[0].Status, Mode=OneTime}" Visibility="{Binding IsMulti}" IsEnabled="False"/>
+                            <CheckBox Grid.Row="2" Grid.Column="1" IsChecked="{Binding Answers[1].Status, Mode=OneTime}" Visibility="{Binding IsMulti}" IsEnabled="False"/>
+                            <CheckBox Grid.Row="3" Grid.Column="1" IsChecked="{Binding Answers[2].Status, Mode=OneTime}" Visibility="{Binding IsMulti}" IsEnabled="False"/>
+                            <CheckBox Grid.Row="4" Grid.Column="1" IsChecked="{Binding Answers[3].Status, Mode=OneTime}" Visibility="{Binding IsMulti}" IsEnabled="False"/>
+                        </Grid>
+
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+            </ListView>
+            <Label Content="Edit Selected Question" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" FontFamily="AR DESTINE" Foreground="DarkBlue"/>
+            <Grid Grid.Row="2" Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="19*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="7*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="2*"/>
+
+                </Grid.RowDefinitions>
+                <Label Content="Title:" Grid.Row="0" Grid.Column="1" FontWeight="Bold" FontSize="12" Foreground="DarkBlue" MinHeight="25"/>
+                <f:ValidatedField Grid.Row="1" Grid.Column="1">
+                    <TextBox Height="23"  Text="{Binding SelectedQuestion.Title}"/>
+                </f:ValidatedField>
+                <Label Content="Answers:" Grid.Row="2" Grid.Column="1" FontWeight="Bold" FontSize="12" Foreground="DarkBlue" MinHeight="25"/>
+                <Grid Grid.Column="1" Grid.Row="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="0.2*"/>
+                        <ColumnDefinition Width="0.2*"/>
+                        
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+
+                    </Grid.RowDefinitions>
+                    <Label Content="answer 1" Grid.Row="1" Grid.Column="0" FontWeight="Bold" FontSize="12" Foreground="DarkBlue"/>
+                    <Label Content="answer 2" Grid.Row="3" Grid.Column="0" FontWeight="Bold" FontSize="12" Foreground="DarkBlue"/>
+                    <Label Content="answer 3" Grid.Row="5" Grid.Column="0" FontWeight="Bold" FontSize="12" Foreground="DarkBlue"/>
+                    <Label Content="answer 4" Grid.Row="7" Grid.Column="0" FontWeight="Bold" FontSize="12" Foreground="DarkBlue"/>
+                    <f:ValidatedField Grid.Row="1" Grid.Column="1">
+                        <TextBox Text="{Binding SelectedQuestion.Answers[0].Body}" VerticalAlignment="Center" />
+                    </f:ValidatedField>
+                    <f:ValidatedField Grid.Row="3" Grid.Column="1">
+                        <TextBox  Text="{Binding SelectedQuestion.Answers[1].Body}" VerticalAlignment="Center"/>
+                    </f:ValidatedField>
+                    <f:ValidatedField Grid.Row="5" Grid.Column="1">
+                        <TextBox Text="{Binding SelectedQuestion.Answers[2].Body}" VerticalAlignment="Center"/>
+                    </f:ValidatedField>
+                    <f:ValidatedField Grid.Row="7" Grid.Column="1">
+                        <TextBox  Text="{Binding SelectedQuestion.Answers[3].Body}" VerticalAlignment="Center"/>
+                    </f:ValidatedField>
+                    <CheckBox Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center"  IsChecked="{Binding SelectedQuestion.Answers[0].Status}" Visibility="{Binding SelectedQuestion.IsMulti}" />
+                    <CheckBox Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" IsChecked="{Binding SelectedQuestion.Answers[1].Status}" Visibility="{Binding SelectedQuestion.IsMulti}"/>
+                    <CheckBox Grid.Row="5" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" IsChecked="{Binding SelectedQuestion.Answers[2].Status}" Visibility="{Binding SelectedQuestion.IsMulti}"/>
+                    <CheckBox Grid.Row="7" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" IsChecked="{Binding SelectedQuestion.Answers[3].Status}" Visibility="{Binding SelectedQuestion.IsMulti}"/>
+                    <RadioButton Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" IsChecked="{Binding SelectedQuestion.Answers[0].Status, Mode=OneWay}" Visibility="{Binding SelectedQuestion.IsSingle}"/>
+                    <RadioButton Grid.Row="3" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" IsChecked="{Binding SelectedQuestion.Answers[1].Status, Mode=OneWay}" Visibility="{Binding SelectedQuestion.IsSingle}"/>
+                    <RadioButton Grid.Row="5" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" IsChecked="{Binding SelectedQuestion.Answers[2].Status, Mode=OneWay}" Visibility="{Binding SelectedQuestion.IsSingle}"/>
+                    <RadioButton Grid.Row="7" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center" IsChecked="{Binding SelectedQuestion.Answers[3].Status, Mode=OneWay}" Visibility="{Binding SelectedQuestion.IsSingle}"/>
+
+
+                </Grid>
+                
+                <Grid Grid.Row="8" Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="New Question" VerticalAlignment="Bottom" Command="{Binding NewQuestion}" HorizontalAlignment="Left" Width="90"  Height ="27" Grid.Column="0" Margin="5" FontFamily="AR DESTINE" />
+                    <Button Content="Save" VerticalAlignment="Bottom" Command="{Binding Save}" HorizontalAlignment="Center" Width="90"  Height ="27" Grid.Column="1" Margin="5" FontFamily="AR DESTINE" />
+                    <Button Content="Delete" VerticalAlignment="Bottom" Command="{Binding Delete}" HorizontalAlignment="Right" Width="90" Height ="27" Grid.Column="3"   Margin="5" FontFamily="AR DESTINE" />
+                </Grid>
+            </Grid>
+        </Grid>
+       
+    </Grid>
+</f:UserControlBase>

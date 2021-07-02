@@ -1,0 +1,446 @@
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Castle.Core.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.pdb
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll.config
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CopyComplete
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.exe
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.deps.json
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.json
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.pdb
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.cache
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.lref
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.g.resources
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.pdb
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.g.cs
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.baml
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.g.cs
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.baml
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.g.cs
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.baml
+C:\Users\Daniel\source\repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.exe
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.deps.json
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.json
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.dev.json
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.pdb
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Castle.Core.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.pdb
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll.config
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.cache
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.lref
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.g.resources
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CopyComplete
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.pdb
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.genruntimeconfig.cache
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CoursesView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CoursesView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CourseDetailView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CourseDetailView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\ProfileView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\ProfileView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewCourseView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewCourseView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\SubscribeView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\SubscribeView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegistrationView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegistrationView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.exe
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.deps.json
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.json
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.dev.json
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.pdb
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Castle.Core.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Humanizer.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.pdb
+Q:\school\prbd-2021-c08\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll.config
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CourseDetailView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CoursesView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewCourseView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\ProfileView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegistrationView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\SubscribeView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\App.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.cache
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.lref
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CourseDetailView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CoursesView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewCourseView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\ProfileView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegistrationView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\SubscribeView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.g.resources
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.GeneratedMSBuildEditorConfig.editorconfig
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfoInputs.cache
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfo.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CoreCompileInputs.cache
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CopyComplete
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.pdb
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.genruntimeconfig.cache
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CategorieView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CategorieView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuestionView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuestionView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CategorieView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuestionView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CategorieView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuestionView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuizzesView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuizzesView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuizzView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuizzView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuizzView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuizzesView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuizzView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuizzesView.baml
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuestionView.g.cs
+C:\Users\ASUS\Source\Repos\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuestionView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuestionView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuestionView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.AssemblyReference.cache
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\EditQuizzView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\PassQuizzView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\EditQuizzView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\PassQuizzView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CheckQuizzView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\CheckQuizzView.baml
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NoteBookView.g.cs
+Q:\school\prbd-2021-c08\prbd-2021-c08\obj\Debug\net5.0-windows\view\NoteBookView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.exe
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.deps.json
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.json
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.runtimeconfig.dev.json
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\prbd_2021_c08.pdb
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Castle.Core.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Humanizer.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.pdb
+Q:\school\Starfleet Academy\prbd-2021-c08\bin\Debug\net5.0-windows\PRBD_Framework.dll.config
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.AssemblyReference.cache
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CategorieView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CheckQuizzView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CourseDetailView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CoursesView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\EditQuizzView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewCourseView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuestionView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuizzView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NoteBookView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\PassQuizzView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\ProfileView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuestionView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuizzesView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegistrationView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\SubscribeView.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\App.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.cache
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08_MarkupCompile.lref
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\MainWindow.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CategorieView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CheckQuizzView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CourseDetailView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\CoursesView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\EditQuizzView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\LoginView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\MainView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewCourseView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuestionView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NewQuizzView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\NoteBookView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\PassQuizzView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\ProfileView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuestionView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\QuizzesView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegisterView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\RegistrationView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\view\SubscribeView.baml
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.g.resources
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.GeneratedMSBuildEditorConfig.editorconfig
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfoInputs.cache
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.AssemblyInfo.cs
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CoreCompileInputs.cache
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.csproj.CopyComplete
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\ref\prbd_2021_c08.dll
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd_2021_c08.pdb
+Q:\school\Starfleet Academy\prbd-2021-c08\obj\Debug\net5.0-windows\prbd-2021-c08.genruntimeconfig.cache

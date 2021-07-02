@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>prbd_2021_c08</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <StartupObject></StartupObject>
+    <AssemblyName>prbd_2021_c08</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\aca.png" />
+    <None Remove="Image\engineering.png" />
+    <None Remove="Image\medecine.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PRBD_Framework\PRBD_Framework.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Resource Include="Image\aca.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image\engineering.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image\medecine.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image\science.png" />
+    
+    <Resource Include="Ressources\space.png" />
+  </ItemGroup>
+
+</Project>
